@@ -1,18 +1,12 @@
 # 👋 Welcome to Vision CSE  
 
-This repository is for the **15 Days of Code Challenge** organized by **Vision CSE** 🚀  
+## Day 1
+Solved LeetCode Problem No. 3925 - [Problem](https://leetcode.com/problems/concatenate-array-with-reverse/)
+Solution: [Solution](https://leetcode.com/submissions/detail/1999438090/)
 
-## 📌 About the Challenge
-- Duration: **2 phases of 15 Days**
-- Goal: Code every day and build consistency  
-- Task: Fork this repository, and update your progress here!  
+Solved CP31 Sheet Problems:
+Problem [1901/A](https://codeforces.com/problemset/problem/1901/A)
+Solution [1901/A](https://codeforces.com/problemset/submission/1901/374064555)
 
-## ✅ How to Participate
-1. **Fork** this repository.  
-2. **Edit this README** file in your fork.  
-3. Document your progress daily:  
-   - Add a short note on what you did  
-   - Attach screenshots or  
-   - Add links to your code submissions/projects  
-
-4. Keep pushing your changes every day!  
+Problem [1900/A](https://codeforces.com/problemset/problem/1900/A)
+Solution[1900/A](https://codeforces.com/problemset/problem/1900/A)
