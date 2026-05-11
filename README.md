@@ -20,3 +20,32 @@ Problem: [1900/A](https://codeforces.com/problemset/problem/1900/A)
 Solution: [1900/A](https://codeforces.com/problemset/problem/1900/A)
 
 Logic: Observation! If anywhere more than two empty cells are present, then the minmum number of type 1 actions required are two. Otherwise we check for the total number of appearance of empty cells which will give us the minimum number of type 1 actions
+<<<<<<< HEAD
+=======
+
+## Day 2
+Solved LeetCode POTD - [Problem](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11)
+
+Solution : [Solution](https://leetcode.com/submissions/detail/2000198432/)
+
+Logic: Linearly iterate through the vector and at each index, convert the integer to string, then iterate over the string and convert each char into integer and push it into another vector
+
+Spiral Traversal in a Binary Tree - [Problem](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+Solution - [Solution](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/2000515095/)
+
+Logic: Start from root node. Make two stacks s1(for left to right traversal) & s2 (for right to left traversal) across each level. Make a list in which we will store our answer for spiral traversal. Initially put root node in s1. while making s1 empty for each node, insert it's child nodes in stack s2. Repeat process with s2 and for each node in s2, insert it's child nodes in s1. While emptying respective stacks, insert the elements in the list. When both the stacks become empty, it means all levels are traversed and no other level is left to be traversed so simply return the list as our answer.
+
+Solved CP31 Sheet Problems:
+
+Problem: [1899/A](https://codeforces.com/contest/1899/problem/A)
+
+Solution: [1899/A](https://codeforces.com/contest/1899/submission/374148446)
+
+Logic: If number is divisible by 3, then Vanya would not be able to win as after chance of Vova the number will again become the same. Vanya can only win if the number is not divisble by 3.
+
+Problem: [1896/A](https://codeforces.com/contest/1896/problem/A)
+
+Solution: [1896/A](https://codeforces.com/contest/1896/submission/374149454)
+
+Logic: Used a recursive approach. Find an element which is greater than the elements at previous and last index. Swap the index with it's next index till the list contains no such element and when it happens simply check if the list is sorted or not.
