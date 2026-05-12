@@ -20,8 +20,6 @@ Problem: [1900/A](https://codeforces.com/problemset/problem/1900/A)
 Solution: [1900/A](https://codeforces.com/problemset/problem/1900/A)
 
 Logic: Observation! If anywhere more than two empty cells are present, then the minmum number of type 1 actions required are two. Otherwise we check for the total number of appearance of empty cells which will give us the minimum number of type 1 actions
-<<<<<<< HEAD
-=======
 
 ## Day 2
 Solved LeetCode POTD - [Problem](https://leetcode.com/problems/separate-the-digits-in-an-array/description/?envType=daily-question&envId=2026-05-11)
