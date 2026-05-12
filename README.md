@@ -47,3 +47,4 @@ Problem: [1896/A](https://codeforces.com/contest/1896/problem/A)
 Solution: [1896/A](https://codeforces.com/contest/1896/submission/374149454)
 
 Logic: Used a recursive approach. Find an element which is greater than the elements at previous and last index. Swap the index with it's next index till the list contains no such element and when it happens simply check if the list is sorted or not.
+change
