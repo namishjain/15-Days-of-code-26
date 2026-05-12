@@ -47,4 +47,19 @@ Problem: [1896/A](https://codeforces.com/contest/1896/problem/A)
 Solution: [1896/A](https://codeforces.com/contest/1896/submission/374149454)
 
 Logic: Used a recursive approach. Find an element which is greater than the elements at previous and last index. Swap the index with it's next index till the list contains no such element and when it happens simply check if the list is sorted or not.
-change
+
+## Day 3
+
+Tree Boundary Traversal - [Problem](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1)
+
+Solution - image in day3 folder
+
+Logic: The problem can be broken down in three steps. First we will print out all the elements of the left boundary excluding the leaf nodes. In next step, we will print out all the leaf node elements and then we will print the element of right boundary but in reverse order. In this way we can print out all the nodes of tree by boundary traversal.
+
+Solved CP31 Sheet Problem:
+
+Problem: [1890/A](https://codeforces.com/contest/1890/problem/A)
+
+Solution: [1890/A](https://codeforces.com/contest/1890/submission/374244712)
+
+Logic: Observation! If there are more than 2 different elements present in the given array then it is not possible for array to become good. Then we will check if the only difference between the frequencies of only two numbers is <= 1. If the difference is <= 1 then it is possible for any permutation of array to become good, otherwise it is not possible
