@@ -63,3 +63,4 @@ Problem: [1890/A](https://codeforces.com/contest/1890/problem/A)
 Solution: [1890/A](https://codeforces.com/contest/1890/submission/374244712)
 
 Logic: Observation! If there are more than 2 different elements present in the given array then it is not possible for array to become good. Then we will check if the only difference between the frequencies of only two numbers is <= 1. If the difference is <= 1 then it is possible for any permutation of array to become good, otherwise it is not possible
+working or not
