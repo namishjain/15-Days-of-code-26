@@ -63,3 +63,31 @@ Problem: [1890/A](https://codeforces.com/contest/1890/problem/A)
 Solution: [1890/A](https://codeforces.com/contest/1890/submission/374244712)
 
 Logic: Observation! If there are more than 2 different elements present in the given array then it is not possible for array to become good. Then we will check if the only difference between the frequencies of only two numbers is <= 1. If the difference is <= 1 then it is possible for any permutation of array to become good, otherwise it is not possible
+
+## Day 4
+
+Right Side View of a Binary Tree - [Problem](https://leetcode.com/problems/binary-tree-right-side-view/)
+
+Solution - [Solution](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2001832847/)
+
+Logic: We will use a map (to fetch only one value from each level) and an array (to store our answer). To print right side view of a binary tree, we will start traversing towards the right pushing values in array and indexing tha each level of tree so that when we will traverse towards the left we will not push the values back in the array
+
+Solved CP31 Sheet Problems:
+
+Problem: [1881/A](https://codeforces.com/contest/1881/problem/A)
+
+Solution [1881/A](https://codeforces.com/contest/1881/submission/374345820)
+
+Logic: By given constraints we can observe that if x is duplicated by 5 times and till that if s is found to be a substring of x then we will break at that instant and answer will be the number of times x was duplicated & if not possible then answer will be -1
+
+Problem: [1878/A](https://codeforces.com/contest/1878/problem/A)
+
+Solution: [1878/A](https://codeforces.com/contest/1878/submission/374346367)
+
+Logic: Check if k is present in the array or not
+
+Problem: [1877/A](https://codeforces.com/contest/1877/problem/A)
+
+Solution: [1877/A](https://codeforces.com/contest/1877/submission/374346514)
+
+Logic: Simply return the negative of the sum of the array
