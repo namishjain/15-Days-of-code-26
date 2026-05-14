@@ -91,3 +91,32 @@ Problem: [1877/A](https://codeforces.com/contest/1877/problem/A)
 Solution: [1877/A](https://codeforces.com/contest/1877/submission/374346514)
 
 Logic: Simply return the negative of the sum of the array
+
+## Day 5
+
+LeetCode POTD: [Problem](https://leetcode.com/problems/check-if-array-is-good/?envType=daily-question&envId=2026-05-14)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2002637517/)
+
+Logic: Use Hashmap and store the frequency of each element in an array. Now iterate through the array and check if all elements other than n occur once and n occur twice. if that's not the case return false otherwise return true
+
+Symmetric Binary Tree: [Problem](https://leetcode.com/problems/symmetric-tree/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2002742488/)
+
+Logic: We will use two seperate traversals, one to the left and one to the right. make two stacks s1 and s2. when traversing to the left subtree go from left child to right child for each node and store the elements in s1. While traversing to the right subtree go from right child to the left child for each node and store the elements in s2. After traversing, remove elements from both the stack simultaneously. The top element in both the stacks should be equal for binary tree to be symmetric
+
+Solved CP31 Sheet Problems:
+
+Problem: [1873/C](https://codeforces.com/problemset/problem/1873/C)
+
+Solution: [1873/C](https://codeforces.com/problemset/submission/1873/374457341)
+
+Logic: Create a score matrix according to the problem. Now iterate through each charachter of each string present. When the char is equal to X append the value at that index of matrix.
+
+Problem: [1866/A](https://codeforces.com/problemset/problem/1866/A)
+
+Solution: [1866/A](https://codeforces.com/problemset/submission/1866/374458176)
+
+Logic: Return the minimum absolute value from the elements provided possible
+
