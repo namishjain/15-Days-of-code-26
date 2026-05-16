@@ -135,3 +135,25 @@ Solved CP31 Sheet Problems:
 Solution: [1862/B](https://codeforces.com/contest/1862/submission/374562137)
 
 Logic: For each value in the given vector b, if the current element in greater than previous element then insert it into a otherwise insert it twice in the vector a
+
+## Day 7
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/?envType=daily-question&envId=2026-05-16)
+
+Solution: [Solution](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/2004304144/?envType=daily-question&envId=2026-05-16)
+
+Logic: Standard Binary Search Solution. Solved previously from Striver's Sheet of finding minimum in a rotated sorted array with duplicates
+
+Solved CP31 Sheet Problems:
+
+Problem: [1859/A](https://codeforces.com/contest/1859/problem/A)
+
+Solution: [1859/A](https://codeforces.com/contest/1859/submission/374676928)
+
+Logic: Put all the largest elements of array in the second array and the remaining elements in the first array. If size of first array becomes zero then it is not possible to construct the given two arrays, otherwise it is possible and print the sizes and the elements of the two arrays respectively
+
+Problem: [1858/A](https://codeforces.com/contest/1858/problem/A)
+
+Solution: [1858/A](https://codeforces.com/contest/1858/submission/374678039)
+
+Logic: First assign all the c buttons to both Anna and Katie and then check whether a > b or b > a according to the given conditions and return the answer accordingly
