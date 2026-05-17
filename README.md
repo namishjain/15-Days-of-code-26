@@ -157,3 +157,32 @@ Problem: [1858/A](https://codeforces.com/contest/1858/problem/A)
 Solution: [1858/A](https://codeforces.com/contest/1858/submission/374678039)
 
 Logic: First assign all the c buttons to both Anna and Katie and then check whether a > b or b > a according to the given conditions and return the answer accordingly
+
+## Day 8
+
+Maximum Width of a Tree: [Problem](https://www.geeksforgeeks.org/problems/maximum-width-of-tree/1)
+
+Solution: in img of day8 folder
+
+Logic: Traverse through each level of the tree and store the frequency of elements in a map. Then find the maximum value for all the keys of the map
+
+Solved Contest Problem 3931: [Problem](https://leetcode.com/problems/check-adjacent-digit-differences/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2005407930/)
+
+Logic: Linearly iterate through the string and check the difference between the two adjacent charachters and find the difference. If the difference between the 2 is greater then 2 then return false otherwise return true at the end of loop.
+
+Solved CP31 Sheet Problems:
+
+Problem: [1857/A](https://codeforces.com/problemset/problem/1857/A)
+
+Solution: [1857/A](https://codeforces.com/problemset/submission/1857/374924037)
+
+Logic: Calculate the sum of all the odd elements and even elements separately and check the parity of both. if parity of the both the sum is same then return true otherwise return false
+
+Problem: [1853/A](https://codeforces.com/problemset/problem/1853/A)
+
+Solution: [1853/A](https://codeforces.com/problemset/submission/1853/374925850)
+
+Logic: If array is unsorted return 0. Otherwise check for minimum difference between two consecutive elements are return minDiff/2 + 1.
+
