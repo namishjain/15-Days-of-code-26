@@ -186,3 +186,30 @@ Solution: [1853/A](https://codeforces.com/problemset/submission/1853/374925850)
 
 Logic: If array is unsorted return 0. Otherwise check for minimum difference between two consecutive elements are return minDiff/2 + 1.
 
+## Day 9
+
+Children Sum Property in a Binary Tree: [Problem](https://www.geeksforgeeks.org/problems/children-sum-parent/1)
+
+Solution: img in day9 folder
+
+Logic: Check the sum of left and right child for each node. if the sum equals to the value of parent node then return true otherwise return false
+
+Count Complete Tree Nodes: [Problem](https://leetcode.com/problems/count-complete-tree-nodes/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2006278120/)
+
+Logic: If the current node is not null then simply count it as one node. Then traverse through the left and right of the current node and return the total number of nodes.
+
+Solved CP31 Sheet Problems:
+
+Problem: [1845/A](https://codeforces.com/contest/1845/problem/A)
+
+Solution: [1845/A](https://codeforces.com/contest/1845/submission/375014689)
+
+Logic: Count the occurence of even and odd elements and then apply conditions according to the problem
+
+Problem: [1837/A](https://codeforces.com/contest/1837/problem/A)
+
+Solution: [1837/A](https://codeforces.com/contest/1837/submission/375047783)
+
+Logic: Just check if x is divisble by k or not.
