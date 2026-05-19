@@ -213,3 +213,29 @@ Problem: [1837/A](https://codeforces.com/contest/1837/problem/A)
 Solution: [1837/A](https://codeforces.com/contest/1837/submission/375047783)
 
 Logic: Just check if x is divisble by k or not.
+
+## Day 10
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/minimum-common-value/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2006928902/)
+
+Logic: Store the values of first array in a map and find the minimum during iteration in the second array
+
+Burning Tree Problem: [Problem](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2007135048/)
+
+Solved CP31 Sheet Problems:
+
+Problem: [1834/A](https://codeforces.com/contest/1834/problem/A)
+
+Solution: [1834/A](https://codeforces.com/contest/1834/submission/375186702)
+
+Logic: Check the occurrence of 1 and -1. The number of operations will be equal to the all the -1 converted to 1 to make them less than the no. of 1. After that if the no. of -1 present is not is divisible by 2 then operations will be incremented by 1
+
+Problem: [1831/A](https://codeforces.com/contest/1831/problem/A)
+
+Solution: [1831/A](https://codeforces.com/contest/1831/submission/375188873)
+
+Logic: Each element of b will be equal to n + 1 - ai so that the sum of ai + bi across all i will be equal
