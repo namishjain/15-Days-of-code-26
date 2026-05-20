@@ -239,3 +239,25 @@ Problem: [1831/A](https://codeforces.com/contest/1831/problem/A)
 Solution: [1831/A](https://codeforces.com/contest/1831/submission/375188873)
 
 Logic: Each element of b will be equal to n + 1 - ai so that the sum of ai + bi across all i will be equal
+
+## Day 11
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2007779668/)
+
+Logic: Store the values in the hash array and proceed accordingly
+
+Solved CP31 Sheet Problems:
+
+Problem: [1829/B](https://codeforces.com/contest/1829/problem/B)
+
+Solution: [1829/B](https://codeforces.com/contest/1829/submission/375294120)
+
+Logic: Find the maximum length of sliding window
+
+Problem: [1814/A](https://codeforces.com/contest/1814/problem/A)
+
+Solution: [1814/A](https://codeforces.com/contest/1814/submission/375295071)
+
+Logic: Check if n is divisible by 2 or n-k is divisble by 2 then return yes otherwise return no
