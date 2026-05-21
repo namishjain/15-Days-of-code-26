@@ -261,3 +261,25 @@ Problem: [1814/A](https://codeforces.com/contest/1814/problem/A)
 Solution: [1814/A](https://codeforces.com/contest/1814/submission/375295071)
 
 Logic: Check if n is divisible by 2 or n-k is divisble by 2 then return yes otherwise return no
+
+## Day 12
+
+Flatten Binary Tree to Linked List: [Problem](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2008831290/)
+
+Logic: Preorder traversal across the binary tree and store each node in an array and then make right of each node as the next node in the vector
+
+Solved CP31 Sheet Problems:
+
+Problem: [1806/A](https://codeforces.com/contest/1806/problem/A)
+
+Solution: [1806/A](https://codeforces.com/contest/1806/submission/375413338)
+
+Logic: Calculate the moves taken to each from b to d and then if a is less than c then return -1 otherwise add the distance between a and c
+
+Problem: [1791/C](https://codeforces.com/contest/1791/problem/C)
+
+Solution: [1791/C](https://codeforces.com/contest/1791/submission/375415946)
+
+Logic: Solved using basic two pointers
