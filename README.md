@@ -283,3 +283,26 @@ Problem: [1791/C](https://codeforces.com/contest/1791/problem/C)
 Solution: [1791/C](https://codeforces.com/contest/1791/submission/375415946)
 
 Logic: Solved using basic two pointers
+
+## Day 13
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2009971357/)
+
+Logic: Used Binary Search
+
+Solved CP31 Sheet Problems: 
+
+Problem: [1789/A](https://codeforces.com/contest/1789/problem/A)
+
+Solution: [1789/A](https://codeforces.com/contest/1789/submission/375608457)
+
+Logic: If gcd between any two pair of numbers is less than 2 then the array can be reordered to make it good, otherwise it cannot be reordered to make it good
+
+Problem: [1777/A](https://codeforces.com/contest/1777/problem/A)
+
+Solution: [1777/A](https://codeforces.com/contest/1777/submission/375611430)
+
+Logic: Check if parity of two consecutive elements is same. If it is same then add increment one operation.
+
