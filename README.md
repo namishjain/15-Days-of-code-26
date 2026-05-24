@@ -338,3 +338,32 @@ Solution: [2229/A](https://codeforces.com/contest/2229/submission/375795957)
 
 Logic: Observation! The answer will be the ceil of the average of the smallest and largest element of the array
 
+## Day 15
+
+Solved LeetCode Contest 503 Problems: 
+
+Problem 1: [Problem](https://leetcode.com/problems/limit-occurrences-in-sorted-array/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2011253620/)
+
+Logic: Store the elements in a map. Iterate through the map and store the occurrence of elements in another array
+
+Problem 2: [Problem](https://leetcode.com/problems/password-strength/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2011264213/)
+
+Logic: Store each element in a map. Iterate through the map and increase strength according to the condtions
+
+Floor in a BST: [Problem](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
+
+Solution: [Solution](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1)
+
+Logic: Normally traverse through a bst and for each node store the maximum value less than given integer k
+
+Solved CP31 Sheet Problem:
+
+Problem: [1904/A](https://codeforces.com/contest/1904/problem/A)
+
+Solution: [1904/A](https://codeforces.com/contest/1904/submission/375910537)
+
+Logic: Store all the possibilites of in form of vector respectively from the postions of king and queen by using knight and then calculate the equal pairs in both the arrays
