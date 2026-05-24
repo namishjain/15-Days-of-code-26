@@ -306,3 +306,35 @@ Solution: [1777/A](https://codeforces.com/contest/1777/submission/375611430)
 
 Logic: Check if parity of two consecutive elements is same. If it is same then add increment one operation.
 
+## Day 14
+
+Updated late becuase I was out for some work
+
+Started Binary Search Tree from Striver
+
+Search a Node in a Binary Search Tree: [Problem](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2010574459/)
+
+Logic: Traverse through the bst and find the required node
+
+Solved CP31 Sheet Problems:
+
+Problem: [1766/A](https://codeforces.com/contest/1766/problem/A)
+
+Solution: [1766/A](https://codeforces.com/contest/1766/submission/375704976)
+
+Logic: Make cases according to n
+
+Problem: [1783/A](https://codeforces.com/contest/1783/problem/A)
+
+Solution: [1783/A](https://codeforces.com/contest/1783/submission/375705452)
+
+Logic: If all elements of the array are same then it is not possible otherwise it is possible
+
+Problem: [2229/A](https://codeforces.com/contest/2229/problem/A)
+
+Solution: [2229/A](https://codeforces.com/contest/2229/submission/375795957)
+
+Logic: Observation! The answer will be the ceil of the average of the smallest and largest element of the array
+
