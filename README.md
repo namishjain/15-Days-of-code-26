@@ -367,3 +367,27 @@ Problem: [1904/A](https://codeforces.com/contest/1904/problem/A)
 Solution: [1904/A](https://codeforces.com/contest/1904/submission/375910537)
 
 Logic: Store all the possibilites of in form of vector respectively from the postions of king and queen by using knight and then calculate the equal pairs in both the arrays
+
+# Phase 2
+
+## Day 16
+
+Course Schedule: [Problem] (https://leetcode.com/problems/course-schedule/)
+
+Solution: [Solution] (https://leetcode.com/submissions/detail/2033445054/)
+
+Logic: Apply BFS and Topo Sort
+
+Course Schedule 2: [Problem](https://leetcode.com/problems/course-schedule-ii/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2033446697/)
+
+Logic: Same as course schedule but this time return the ordering of the topo sort order
+
+Solved CP31 Sheet Problem:
+
+Problem: [1471/A](https://codeforces.com/contest/1471/problem/A)
+
+Solution: [1471/A](https://codeforces.com/contest/1471/submission/378919696)
+
+Logic: Maximum beauty if the sum of ceil of all elements individually. Minimum beauty is the ceil of the sum of all elements.
