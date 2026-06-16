@@ -391,3 +391,25 @@ Problem: [1471/A](https://codeforces.com/contest/1471/problem/A)
 Solution: [1471/A](https://codeforces.com/contest/1471/submission/378919696)
 
 Logic: Maximum beauty if the sum of ceil of all elements individually. Minimum beauty is the ceil of the sum of all elements.
+
+## Day 17
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/process-string-with-special-operations-i/)
+
+Solution: [Solution](http://leetcode.com/submissions/detail/2035302936/)
+
+Logic: Iterate through the string and perform operations accordingly
+
+Find Eventually Safe States: [Problem](https://leetcode.com/problems/find-eventual-safe-states/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2034629574/)
+
+Logic: Reverse the graph by changing the direction between the nodes and then apply topo sort
+
+Solved CP31 Sheet Problems:
+
+Problem: [1373/B](https://codeforces.com/problemset/problem/1373/B)
+
+Solution: [1373/B](https://codeforces.com/contest/1373/submission/379144931)
+
+Logic: Calculate the number of 0's and 1's. If the minimum of both is divisible by 2 then Alice can't win otherwise Alice will win
