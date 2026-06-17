@@ -372,9 +372,9 @@ Logic: Store all the possibilites of in form of vector respectively from the pos
 
 ## Day 16
 
-Course Schedule: [Problem] (https://leetcode.com/problems/course-schedule/)
+Course Schedule: [Problem](https://leetcode.com/problems/course-schedule/)
 
-Solution: [Solution] (https://leetcode.com/submissions/detail/2033445054/)
+Solution: [Solution](https://leetcode.com/submissions/detail/2033445054/)
 
 Logic: Apply BFS and Topo Sort
 
@@ -413,3 +413,33 @@ Problem: [1373/B](https://codeforces.com/problemset/problem/1373/B)
 Solution: [1373/B](https://codeforces.com/contest/1373/submission/379144931)
 
 Logic: Calculate the number of 0's and 1's. If the minimum of both is divisible by 2 then Alice can't win otherwise Alice will win
+
+## Day 18
+
+Shortest Path in Undirected Graph having Unit Distance: [Problem](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)
+
+Solution: in img18 folder
+
+Logic: Create a list named distance. Use BFS Topo Sort. Check for minimum distance
+
+Shortest Path in DAG: [Problem](https://www.geeksforgeeks.org/problems/shortest-path-in-undirected-graph/1)
+
+Solution: in img18 folder
+
+Logic: Do Topo Sort using BFS or DFS. Create a list named distance. Start from 0 and then check for minimum distance
+
+Solved CP31 Sheet Problems:
+
+Problem: [1440/B](https://codeforces.com/contest/1440/problem/B)
+
+Solution: [1440/B](https://codeforces.com/contest/1440/submission/379203512)
+
+Logic: Completely observation based. Start iterating from the back and decrease value of iterator according to the value of n
+
+Solved 3 problems from CodeChef Starter 243D:
+
+1st Problem: [Solution](https://www.codechef.com/viewsolution/1290366770)
+
+2nd Problem: [Solution](https://www.codechef.com/viewsolution/1290446260)
+
+3rd Problem: [Solution](https://www.codechef.com/viewsolution/1290426240)
