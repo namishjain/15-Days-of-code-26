@@ -443,3 +443,13 @@ Solved 3 problems from CodeChef Starter 243D:
 2nd Problem: [Solution](https://www.codechef.com/viewsolution/1290446260)
 
 3rd Problem: [Solution](https://www.codechef.com/viewsolution/1290426240)
+
+## Day 19
+
+Didn't did much today as i was out due to some work
+
+Word Ladder: [Problem](https://leetcode.com/problems/word-ladder/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2036997962/)
+
+Studied Dijkstra Algorithm
