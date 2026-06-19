@@ -453,3 +453,31 @@ Word Ladder: [Problem](https://leetcode.com/problems/word-ladder/)
 Solution: [Solution](https://leetcode.com/submissions/detail/2036997962/)
 
 Studied Dijkstra Algorithm
+
+## Day 20
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/find-the-highest-altitude/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2038193016/)
+
+Logic: Initialize a variable. Iterate through the array according to the condition making a new array and then find out the maximum element from the newly formed array
+
+Path with Minimum Effort: [Problem](https://leetcode.com/problems/path-with-minimum-effort/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2038189718/)
+
+Logic: Use Dijkstra algorithm for each cell and find out the minimum absolute difference among all paths
+
+Cheapest Flight Within K Stops: [Problem](https://leetcode.com/problems/cheapest-flights-within-k-stops/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2038296150/)
+
+Logic: Apply Dijkstra algorithm but with an additional condtion for number of stops
+
+Solved CP31 Sheet Problems:
+
+Problem: [1913/B](https://codeforces.com/contest/1913/problem/B)
+
+Solution: [1913/B](https://codeforces.com/contest/1913/submission/379491563)
+
+Logic: Count the number of zeroes and ones. Iterate through the array and check if the occurrence of inverted element in greater than 0. decrement the frequency by 1, increase len by 1 otherwise break the loop. return n-len.
