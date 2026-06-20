@@ -481,3 +481,13 @@ Problem: [1913/B](https://codeforces.com/contest/1913/problem/B)
 Solution: [1913/B](https://codeforces.com/contest/1913/submission/379491563)
 
 Logic: Count the number of zeroes and ones. Iterate through the array and check if the occurrence of inverted element in greater than 0. decrement the frequency by 1, increase len by 1 otherwise break the loop. return n-len.
+
+## Day 21
+
+I was out of station so unable to solve much problems
+
+Network Delay Time: [Problem](https://leetcode.com/problems/network-delay-time/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2039849879/)
+
+Logic: Simpy apply Dijkstra Algorithm
