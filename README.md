@@ -491,3 +491,23 @@ Network Delay Time: [Problem](https://leetcode.com/problems/network-delay-time/)
 Solution: [Solution](https://leetcode.com/submissions/detail/2039849879/)
 
 Logic: Simpy apply Dijkstra Algorithm
+
+## Day 22
+
+I WAS OUT OF STATION FOR LAST 2 DAYS WITHOUT LAPTOP. 
+
+Number of Ways to arrive at Destination: [Problem](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2042758445/)
+
+Logic: Use Dijkstra Algorithm to calculate the shortest distance but here's a catch. To calculate the number of ways we need to create another vector which will store the number of ways.
+
+Bellman Ford Algorithm: [Problem](https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1)
+
+Solution: It is an algorithm to find shortest distance in a graph between source and target node with edges containing negative weights
+
+Find the City with smallest number of neighbours at a threshold distance: [Problem](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2043382777/)
+
+Logic: Apply Floyd Warshall Algorithm and calculate the possible distances between each node in the graph
