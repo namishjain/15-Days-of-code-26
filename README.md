@@ -511,3 +511,23 @@ Find the City with smallest number of neighbours at a threshold distance: [Probl
 Solution: [Solution](https://leetcode.com/submissions/detail/2043382777/)
 
 Logic: Apply Floyd Warshall Algorithm and calculate the possible distances between each node in the graph
+
+## Day 23
+
+Studied Minimum Spanning Tree Theory From Striver
+
+Prim's Algorithm: [Problem](https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1)
+
+Solution: In day23 folder
+
+Logic: By using Prim's algorithm we are finding the sum of edge weights of minimum spanning tree
+
+Solved CodeChef Starter 244 Problems:
+
+Problem 1: [Solution](https://www.codechef.com/viewsolution/1294533197)
+
+Problem 2: [Solution](https://www.codechef.com/viewsolution/1294541715)
+
+Problem 3: [Solution](https://www.codechef.com/viewsolution/1294550929)
+
+Problem 4: [Solution](https://www.codechef.com/viewsolution/1294611416)
