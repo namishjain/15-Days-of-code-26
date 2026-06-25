@@ -531,3 +531,21 @@ Problem 2: [Solution](https://www.codechef.com/viewsolution/1294541715)
 Problem 3: [Solution](https://www.codechef.com/viewsolution/1294550929)
 
 Problem 4: [Solution](https://www.codechef.com/viewsolution/1294611416)
+
+## Day 24
+
+Studied Disjoint Set, Union By Rank and Union By Size
+
+Number of Operations to make Network Connected: [Problem](https://leetcode.com/problems/number-of-operations-to-make-network-connected/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2045323507/)
+
+Logic: Apply DFS and logic of number of connected components in a graph
+
+Solved CP31 Sheet Problem:
+
+Problem: [1859/B](https://codeforces.com/contest/1859/problem/B)
+
+Solution: [1859/B](https://codeforces.com/contest/1859/submission/380088950)
+
+Logic: Calculate the minimum and second minimum elements from each array and use greedy approach to solve the problem
