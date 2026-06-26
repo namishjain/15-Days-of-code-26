@@ -549,3 +549,11 @@ Problem: [1859/B](https://codeforces.com/contest/1859/problem/B)
 Solution: [1859/B](https://codeforces.com/contest/1859/submission/380088950)
 
 Logic: Calculate the minimum and second minimum elements from each array and use greedy approach to solve the problem
+
+## Day 25
+
+Making a Large Island: [Problem](https://leetcode.com/problems/making-a-large-island/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2046421735/)
+
+Logic: Apply Disjoint Set union and traverse across each cell in the matrix
