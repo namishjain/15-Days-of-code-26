@@ -557,3 +557,17 @@ Making a Large Island: [Problem](https://leetcode.com/problems/making-a-large-is
 Solution: [Solution](https://leetcode.com/submissions/detail/2046421735/)
 
 Logic: Apply Disjoint Set union and traverse across each cell in the matrix
+
+## Day 26
+
+Kosaraju Algorithm: [Problem](https://www.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1)
+
+Solution: [Solution]
+
+Logic: We have to find strongly connected components. Apply Kosaraju Algorithm. Reverse the edges and find cycles in the graph
+
+Critical Connections in a Network: [Problem](https://leetcode.com/problems/critical-connections-in-a-network/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2047481331/)
+
+Logic: Apply Tarjan's Algorithm
