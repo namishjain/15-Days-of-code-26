@@ -571,3 +571,17 @@ Critical Connections in a Network: [Problem](https://leetcode.com/problems/criti
 Solution: [Solution](https://leetcode.com/submissions/detail/2047481331/)
 
 Logic: Apply Tarjan's Algorithm
+
+## Day 27
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
+
+Solution: [Solution](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/)
+
+Logic: Sort the array and reduce each element so that difference between adjacent elements is atmost 1
+
+Solved Codeforces 1106 Problem A: [Problem](https://codeforces.com/contest/2238/submission/380506038)
+
+Solution: [Solution](https://codeforces.com/contest/2238/submission/380506038)
+
+Logic: Calculate two times. First sort and then calculate total time. Now calculate time with the original and return the minimum of both
