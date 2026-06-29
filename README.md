@@ -585,3 +585,28 @@ Solved Codeforces 1106 Problem A: [Problem](https://codeforces.com/contest/2238/
 Solution: [Solution](https://codeforces.com/contest/2238/submission/380506038)
 
 Logic: Calculate two times. First sort and then calculate total time. Now calculate time with the original and return the minimum of both
+
+## Day 28
+
+Solved LeetCode POTD: [Problem](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2049520490/)
+
+Logic: Brute force using map
+
+Started Dynamic Programming
+
+Frog Juump: [Problem](https://www.geeksforgeeks.org/problems/geek-jump/1)
+
+Solution: in img28 folder
+
+Logic: Store newly calculated values of jumps at different positions in a new array and reuse it
+
+Solved CP31 Sheet Problem:
+
+Problem: [1155/A](https://codeforces.com/problemset/problem/1155/A)
+
+Solution: [1155/A](https://codeforces.com/contest/1155/submission/380555043)
+
+Logic: Check if sorted string is equal to original string. If not then find when does (i+1)th char is less than ith char
+
