@@ -610,3 +610,24 @@ Solution: [1155/A](https://codeforces.com/contest/1155/submission/380555043)
 
 Logic: Check if sorted string is equal to original string. If not then find when does (i+1)th char is less than ith char
 
+## Day 29
+
+House Robber: [Problem](https://leetcode.com/problems/house-robber/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2050681030/)
+
+Logic: Use a recursive function to determine the numnber of steps by two choices of picking and not picking
+
+House Robber 2: [Problem](https://leetcode.com/problems/house-robber-ii/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2050718141/)
+
+Logic: Similar to House Robber. return the maximum between 0 to n-2 and 1 to n-1
+
+Solved CP31 Sheet Problem:
+
+Problem: [1312/B](https://codeforces.com/contest/1312/problem/B)
+
+Solution: [1312/B](https://codeforces.com/contest/1312/submission/380654949)
+
+Logic: Sort the array in decreasing order
