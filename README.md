@@ -631,3 +631,27 @@ Problem: [1312/B](https://codeforces.com/contest/1312/problem/B)
 Solution: [1312/B](https://codeforces.com/contest/1312/submission/380654949)
 
 Logic: Sort the array in decreasing order
+
+## Day 30
+
+Ninja Training: [Problem](https://www.geeksforgeeks.org/problems/geeks-training/1)
+
+Solution: [Solution]
+
+Logic: Standard 2D Dp problem. Perform according to the conditions
+
+Unique Paths: [Problem](https://leetcode.com/problems/unique-paths/)
+
+Solution: [Solution](https://leetcode.com/submissions/detail/2052210585/)
+
+Logic: Start from (m-1,n-1). Check all possible top and left combinations by using DP
+
+Solved CodeChef Starters 245 (Div 4) Contest Problems:
+
+Problem 1: [Solution](https://www.codechef.com/viewsolution/1298172654)
+
+Problem 2: [Solution](https://www.codechef.com/viewsolution/1298182063)
+
+Problem 3: [Solution](https://www.codechef.com/viewsolution/1298259018)
+
+Problem 4: [Solution](https://www.codechef.com/viewsolution/1298279748)
